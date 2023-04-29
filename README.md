@@ -29,13 +29,11 @@ The project is: in progress
 
 
 ## Room for Improvement
-Responsive design 
-Home page 
+- Responsive design 
+- Home page 
 
 
 ## Contact
 Created by LindaVGonzalez - feel free to contact me!
 
 
-Excursion Project
-Ëxcursion Project
